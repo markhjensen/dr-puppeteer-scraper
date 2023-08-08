@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ftp": "^0.3.10",
+    "puppeteer": "^21.0.1"
+  },
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Jensen",
+  "license": "ISC",
+  "description": "Scraper for dr.dk"
+}
